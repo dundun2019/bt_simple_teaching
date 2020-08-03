@@ -4,10 +4,10 @@
 
 1.  打开[链接](https://www.biglybt.com/download/)进行下载
 2.  打开Bigly BT 安装程序
-3.  选择我接受条款
+3.  选择我接受条款并，点击next
 
 ![](https://images.gitee.com/uploads/images/2020/0803/132656_c5f0685f_7496100.png "安装.png")
-并点击next
+
 4.  选择你想安装的目录和图形界面
 【这里根据默认设置即可】
 
