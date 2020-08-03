@@ -19,21 +19,15 @@
 
 ![](https://images.gitee.com/uploads/images/2020/0803/133834_ab04486e_7496100.png "插件.png")
 
-6.自动开始安装 . . .
-
-7.安装结束点击finish结束安装
+### 6.自动开始安装 . . . :fa-smile-o:
+  
+ 
+**7.安装结束点击finish结束安装** 
 
 ![](https://images.gitee.com/uploads/images/2020/0803/134335_f53b12ab_7496100.png "finish.png")
 
-#### 使用说明
+#### 制作种子
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
