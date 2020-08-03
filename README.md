@@ -28,12 +28,12 @@
 
 #### 制作种子
 
-1.  点击左上角文件按钮
+ **1.  点击左上角文件按钮** 
 
 ![](https://images.gitee.com/uploads/images/2020/0803/170241_baee687f_7496100.png "文件.png")
 
-2.  选择点击新建torrent文件
-
+ **2.  选择点击新建torrent文件
+** 
 ![](https://images.gitee.com/uploads/images/2020/0803/170524_a5f7d86a_7496100.png "torrent.png")
 
-3.  xxxx
+3.  
