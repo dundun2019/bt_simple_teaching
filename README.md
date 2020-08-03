@@ -30,6 +30,6 @@
 
 1.  点击左上角文件按钮
 
-
+![](https://images.gitee.com/uploads/images/2020/0803/170241_baee687f_7496100.png "文件.png")
 2.  xxxx
 3.  xxxx
