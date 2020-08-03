@@ -32,8 +32,15 @@
 
 ![](https://images.gitee.com/uploads/images/2020/0803/170241_baee687f_7496100.png "文件.png")
 
- **2.  选择点击新建torrent文件
-** 
+ **2.  选择点击新建torrent文件** 
+
 ![](https://images.gitee.com/uploads/images/2020/0803/170524_a5f7d86a_7496100.png "torrent.png")
 
-3.  
+ **3.  选择使用一个外部tracker
+** 
+![](https://images.gitee.com/uploads/images/2020/0803/190847_2e240d45_7496100.png "2020-08-03 19-07-43 创建的截图.png")
+
+ **并在tracker列表中选择择一个tracker建议端口为8080或2710的tracker               ** 
+
+###  [想要一个最新tracker？]
+(https://gitee.com/yao2019ss/trackerslist.git)
