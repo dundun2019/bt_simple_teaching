@@ -7,6 +7,11 @@
 3.  选择我接受条款
 
 ![](https://images.gitee.com/uploads/images/2020/0803/132656_c5f0685f_7496100.png "安装.png")
+并点击next
+4.  选择你想安装的目录和图形界面
+【这里根据默认设置即可】
+
+![](https://images.gitee.com/uploads/images/2020/0803/133213_9121a2b1_7496100.png "位置.png")
 
 #### 使用说明
 
