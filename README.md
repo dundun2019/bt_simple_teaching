@@ -40,7 +40,7 @@
 
 ![](https://images.gitee.com/uploads/images/2020/0803/192039_a88527ac_7496100.png "2020-08-03 19-07-08 创建的截图.png")
  
-**并在tracker列表中选择择一个tracker建议端口为8080或2710的tracker** 
+**并在tracker列表中选择择一个tracker建议端口为8080或2710的tracker 并点击下一步** 
 
 [想要一个最新tracker？(每日更新)](https://gitee.com/yao2019ss/trackerslist.git)
 
