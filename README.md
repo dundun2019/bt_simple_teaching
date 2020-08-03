@@ -14,8 +14,16 @@
 
 ![](https://images.gitee.com/uploads/images/2020/0803/133213_9121a2b1_7496100.png "位置.png")
 
-5.选取插件；建议选取全部插件
+ **5.选取插件；建议选取全部插件
+并点击next** 
+
 ![](https://images.gitee.com/uploads/images/2020/0803/133834_ab04486e_7496100.png "插件.png")
+
+6.自动开始安装 . . .
+
+7.安装结束点击finish结束安装
+
+![](https://images.gitee.com/uploads/images/2020/0803/134335_f53b12ab_7496100.png "finish.png")
 
 #### 使用说明
 
