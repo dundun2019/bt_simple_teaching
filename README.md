@@ -47,3 +47,15 @@
 如图：
 
 ![](https://images.gitee.com/uploads/images/2020/0803/192223_962d2d8d_7496100.png "2020-08-03 19-21-54 创建的截图.png")
+
+4.  点击新建并给tracker集命名
+
+![](https://images.gitee.com/uploads/images/2020/0803/194151_edb15669_7496100.png "2020-08-03 19-40-54 创建的截图.png")
+
+5.  随后点击以文本编辑
+
+![](https://images.gitee.com/uploads/images/2020/0803/194548_633b874e_7496100.png "2020-08-03 19-40-54 创建的截图.png")
+
+6.  选择10-20个tracker填入【建议：每个tracker间空一行 不建议：选用80、40端口】
+
+![](https://images.gitee.com/uploads/images/2020/0803/194942_78414724_7496100.png "2020-08-03 19-49-32 创建的截图.png")
