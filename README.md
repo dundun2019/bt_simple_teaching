@@ -42,5 +42,4 @@
 
  **并在tracker列表中选择择一个tracker建议端口为8080或2710的tracker               ** 
 
-###  [想要一个最新tracker？]
-(https://gitee.com/yao2019ss/trackerslist.git)
+[想要一个最新tracker？(每日更新)](https://gitee.com/yao2019ss/trackerslist.git)
