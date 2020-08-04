@@ -2,7 +2,7 @@
 
 #### 安装教程
 
- **1.  打开[链接](https://www.biglybt.com/download/)进行下载
+ **1.  打开[链接进行下载](https://www.biglybt.com/download/)
 2.  打开Bigly BT 安装程序
 3.  选择我接受条款并，点击next** 
 
