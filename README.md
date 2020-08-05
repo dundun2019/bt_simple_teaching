@@ -1,6 +1,6 @@
 # BT简单教学
 
-#### 安装教程
+#### 安装教程 [想看视频版？](https://www.bilibili.com/video/BV1ff4y1X78Z/)
 
  **1.  打开[链接进行下载](https://www.biglybt.com/download/)** 
 
